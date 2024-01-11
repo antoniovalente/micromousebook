@@ -12,4 +12,7 @@
   * [Section 2.1](second-chapter/README.md#sec2-subsection)
   * [Section 2.2](second-chapter/README.md#sec2-other-subsection)
   * [Section 2.3 in another file](third-chapter/otherfile.md)
-* [Apêndice](apendice.md)
+* [Apêndice](appendice/README.md)
+  * [Section 2.1](second-chapter/README.md#sec2-subsection)
+  * [Section 2.2](second-chapter/README.md#sec2-other-subsection)
+  * [Section 2.3 in another file](appendice/otherfile.md)
